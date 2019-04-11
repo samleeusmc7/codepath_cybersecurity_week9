@@ -31,7 +31,8 @@ Vulnerability #2: __________________
 ## Red
 
 Vulnerability #1: XSS attack
-GIF - https://imgur.com/IJDixMD
+
+  - GIF - https://imgur.com/IJDixMD
 
 Vulnerability #2: __________________
 
