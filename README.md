@@ -31,6 +31,12 @@ Vulnerability #2: __________________
 Vulnerability #1: Username Enumeration
 
   - GIF - https://imgur.com/PmjXaVZ
+    - First go to the green target web page
+    - Then type in any username and password
+    - Next open up a red/blue target web page
+    - Then type in any username and password
+    - The text "Log in was unsuccessful" is in BOLD for red/blue target web page
+    - However the text "Log in was unsuccesful" is not in bold for the green target web page
 
 Vulnerability #2: __________________
 
