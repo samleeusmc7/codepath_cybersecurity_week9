@@ -59,6 +59,10 @@ Vulnerability #1: XSS attack
 
 Vulnerability #2: Insecure Direct Object Reference (IDOR)
   - GIF - https://imgur.com/GsbMWbH
+    - First go to the red target web page
+    - Then at the top click on (Find a Salesperson)
+    - Next click on any name and in the url change the number to 10
+    - Then "Testy McTesterton (NOT PUBLIC UNTIL SEPT. 1)"
 
 
 ## Notes
