@@ -46,6 +46,16 @@ Vulnerability #2: __________________
 Vulnerability #1: XSS attack
 
   - GIF - https://imgur.com/IJDixMD
+    - First go to the red target web page
+    - Next log in to the web page
+    - Then click on Countries, States, & Territories
+    - Then click on Add a Country
+    - Then for the name and code put in the script
+    - <BODY ONLOAD=alert('XSS')>
+    - Then click on add a state
+    - For the name and code once again put in the script
+    - Next click on add a territory and for the name and code put inthe script again
+    - Then click on the create button and the XSS attack will occur
 
 Vulnerability #2: Insecure Direct Object Reference (IDOR)
   - GIF - https://imgur.com/GsbMWbH
