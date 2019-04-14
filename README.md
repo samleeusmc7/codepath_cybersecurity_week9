@@ -18,6 +18,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection (SQLi)
   - GIF - https://imgur.com/Kr9MqF9
+    - First go to the blue target web page
+    - Then at the top click on (Find a Salesperson)
+    - Next click on any name and in the url change the number to an apostrophe (')
+    - Database Query Failed
 
 Vulnerability #2: __________________
 
