@@ -16,7 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection (SQLi)
+  - GIF - https://imgur.com/Kr9MqF9
 
 Vulnerability #2: __________________
 
@@ -36,7 +37,8 @@ Vulnerability #1: XSS attack
 
   - GIF - https://imgur.com/IJDixMD
 
-Vulnerability #2: __________________
+Vulnerability #2: Insecure Direct Object Reference (IDOR)
+  - GIF - https://imgur.com/GsbMWbH
 
 
 ## Notes
