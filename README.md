@@ -51,7 +51,7 @@ Vulnerability #1: XSS attack
     - Then click on Countries, States, & Territories
     - Then click on Add a Country
     - Then for the name and code put in the script
-    - <BODY ONLOAD=alert('XSS')>
+    - "<BODY ONLOAD=alert('XSS')>"
     - Then click on add a state
     - For the name and code once again put in the script
     - Next click on add a territory and for the name and code put inthe script again
